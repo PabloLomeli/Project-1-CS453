@@ -9,7 +9,7 @@ In this program a set array size will be sorted by single or multiple threads. T
 I have designed my program to be based on how many levels are inputted to decide how many threads to use when sorting. 
 
 To use the program use this usage guide: 
-mytests <input size> [<seed>] [<number of lvls>] [<enable helper printf()>] [<enable efficiency data mode>]
+mytests <input size> [<seed>] \[<number of lvls>] [<enable helper printf()>] [<enable efficiency data mode>]
 
 The arguments after "input size" are optional and have default values. For instance, by default
 the helper console print methods and dataMode are disabled.
